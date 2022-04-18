@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+}
+canvas{
+    border:5px dashed black;
+    border-radius:20px;
+  
+}
